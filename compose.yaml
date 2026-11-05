@@ -1,0 +1,3 @@
+# TODO: khai báo service, image/build, mạng, cổng và volume sau khi thống nhất.
+# Bộ khung chưa thể khởi chạy hệ thống; chưa cấu hình container.
+services: {}
